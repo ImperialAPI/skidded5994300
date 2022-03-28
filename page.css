@@ -110,7 +110,7 @@ a {
     width: 200px;
     height: 30px;
     border-radius: 30px;
-    background-color: rgba(143, 0, 0, 0.658);
+    background-color: rgba(157, 239, 255, 0.062);
     padding: 10px 70px;
     text-align: center;
     font-weight: 600;
@@ -124,7 +124,7 @@ a {
 }
   
 .download-button:hover {
-    background-color:rgba(255, 0, 0, 0.753);
+    background-color:rgba(101, 206, 255, 0.644);
     cursor: pointer;
     transform: scale(1.03);
     box-shadow: rgba(0, 252, 42, 0.753);
